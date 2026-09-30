@@ -1,7 +1,7 @@
 # HÓPUPPLÝSINGAR & TASK-LISTI
 
-Hópanúmer: 3
-Kennarar: Valborg,Helmut
+Hópanúmer: 3\
+Kennarar: Valborg,Helmut\
 Nöfn nemenda: Blaise,Danylo,Börkur
 
 ## Tasks fyrir heuristics evaluation
