@@ -9,12 +9,8 @@ Skráið 5–7 notendaverkefni (verk) sem þið notið við rýnina. Númerið �
 
 | # | Heiti verks | Stutt lýsing á aðgerð/markmiði | Slóð(ir) sem prófaðar voru |
 |---|-------------|--------------------------------|-----------------------------|
-| 1 | Flipatitill "Leiðbeiningar"|Breyta flipatitillinn á íslensku|https://ymsir.arnastofnun.is/russ/russ?help=1|
-| 2 | tæma körfu  |   Notandinn á að geta tæmt alla hluti úr körfunni í einu|  https://site.com/cart|
-| 3 |             |                                |                             |
-| 4 |             |                                |                             |
-| 5 |             |                                |                             |
-| 6 |             |                                |                             |
-| 7 |             |                                |                             |
-
-> Dæmi um verk: „Leita að vöru og setja í körfu“, „Skrá nýjan notanda“, „Breyta lykilorði“ o.s.frv.
+| 1 |Flipatitill "Leiðbeiningar"|Breyta flipatitillinn á íslensku|https://ymsir.arnastofnun.is/russ/russ?help=1|
+| 2 |Tóma leit| Bæta við villuboð sem kemur í veg fyrir að senda inn tóma eða vitlaus leit|https://ymsir.arnastofnun.is/russ/russ#lleit|
+| 3 |Óvirk tenglar| Bæta við virkni á "Um orðabókina","Leiðbeiningar","Skammstafanir"|https://ymsir.arnastofnun.is/russ/russ?um=1,https://ymsir.arnastofnun.is/russ/russ?help=1 https://ymsir.arnastofnun.is/russ/russ?inf=sk|
+| 4 |Skilvirknari orðaleit|Bæta við sjálfvirkt orðaklárun í leitarreitnum|https://ymsir.arnastofnun.is/russ/russ|
+| 5 |Bæta við síðuna|Bæta við sveigjanleg hönnun sem hentar öllum skjástærðum|https://ymsir.arnastofnun.is/russ/russ|
