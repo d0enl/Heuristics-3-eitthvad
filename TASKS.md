@@ -1,7 +1,8 @@
 # HÓPUPPLÝSINGAR & TASK-LISTI
 
-**Hópanúmer:** _kennari_  
-**Nöfn nemenda:** _a_, _b_
+**Hópanúmer:**3
+**Kennarar:**Valborg,Helmut
+**Nöfn nemenda:** Blaise,Danylo,Börkur
 
 ## Tasks fyrir heuristics evaluation
 Skráið 5–7 notendaverkefni (verk) sem þið notið við rýnina. Númerið þau og notið **verk-númer** þegar þið skráið mál.
